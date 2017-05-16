@@ -1,0 +1,40 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+a {
+    color: gray;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 1%;
+}
+
+.container {
+    margin-bottom: 80px;
+}
+
+.bg-gray-low {
+    background-color: #eee;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bold-600 {
+    font-weight: 600;
+}
+
+.normal {
+    font-weight: normal;
+}
+
+.padding-2-per {
+    padding: 2%;
+}
+
+.mt-62 {
+    margin-top: 62px;
+}
